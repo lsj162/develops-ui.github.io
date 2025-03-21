@@ -1,7 +1,5 @@
 {
   "rewrites": [
-    { "source": "/", "destination": "/components" },
-
     {
       "source": "/(.*)",
       "destination": "/index.html"
